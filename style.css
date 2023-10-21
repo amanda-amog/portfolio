@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    max-width: 100%;
+    
+}
+.cabecalho {
+    background-color: #BE89CB;
+    height: 103px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav {
+    margin-right: 50px;
+}
+.perfil {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: #EDEAEA; */
+    background-color: #630808;
+    height: 579px;
+    /* max-height: 100%; */
+    padding: 0 16px;
+}
+.minha-descricao {
+    margin-left: auto;
+    margin-right: auto;
+    width: 490px;
+    text-align: center;
+}
+img {
+    margin-top: 47px;
+    margin-bottom: 26px;
+}
+.formacao {
+    /* background-color: #e5e5e5; */
+    background-color: #16042d;
+    height: 100%;
+    color: white;
+}
+h2 {
+    color: #FF4DBC;
+    margin-left: 138px;
+    padding-top: 61px;
+
+}
+.primeira-formacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 54px;
+}
+.descricao-formacao {
+    width: 405px;
+    /* margin-bottom: 100px; */
+
+}
+.meus-projetos {
+    background-color: #EDEAEA;
+    height: 600px;
+}
+
+
